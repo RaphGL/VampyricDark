@@ -37,6 +37,7 @@ Vampyric Dark is a project created by [Raph](https://github.com/RaphGL/)
 ## Credits
 
 - Color palette inspired by [@zenorocha's Dracula Dark Theme](http://draculatheme.com/)
+- Logo's font made by [JoannaVu](https://www.fontspace.com/vampire-font-f42263)
 
 ## License
 
